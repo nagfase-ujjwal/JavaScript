@@ -90,4 +90,4 @@ console.log(news1);
 
 // Call Apply Bind
 
-// call 39 min timestamp in mega
+// call
